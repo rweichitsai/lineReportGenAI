@@ -1,0 +1,5 @@
+{
+  "name": "Line 報告小幫手 (Line Report Assistant)",
+  "description": "An AI assistant to help Taiwan National Immigration Agency staff generate professional, formatted internal reports from news articles or event summaries.",
+  "requestFramePermissions": []
+}
